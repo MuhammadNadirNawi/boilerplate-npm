@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Muhammad Nadir Nawi",
 	"description": "The simple project to learn npm",
-	"keywords": ["Simple project", "npm", "freecodingcamp"],
+	"keywords": ["Simple project", "npm", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
