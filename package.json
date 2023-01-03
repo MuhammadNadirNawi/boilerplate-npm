@@ -3,6 +3,7 @@
 	"author": "Muhammad Nadir Nawi",
 	"description": "The simple project to learn npm",
 	"keywords": ["Simple project", "npm", "freecodecamp"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
